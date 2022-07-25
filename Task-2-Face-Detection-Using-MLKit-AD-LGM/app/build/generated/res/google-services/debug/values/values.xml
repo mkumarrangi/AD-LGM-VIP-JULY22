@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">662808455359-hi3sb8uapg9phjjmal2tc7h839mi6kl4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">662808455359</string>
+    <string name="google_api_key" translatable="false">AIzaSyDD5Mdzb6gFgfF4so4ZujARrN4UkLurS2Y</string>
+    <string name="google_app_id" translatable="false">1:662808455359:android:cdc2a7f7733cdcc818fe0a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDD5Mdzb6gFgfF4so4ZujARrN4UkLurS2Y</string>
+    <string name="google_storage_bucket" translatable="false">facedetectionmlkit-c31cd.appspot.com</string>
+    <string name="project_id" translatable="false">facedetectionmlkit-c31cd</string>
+</resources>

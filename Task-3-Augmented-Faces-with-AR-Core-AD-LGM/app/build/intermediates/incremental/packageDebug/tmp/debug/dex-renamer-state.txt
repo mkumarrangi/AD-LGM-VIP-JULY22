@@ -1,0 +1,10 @@
+#Mon Jul 25 03:57:17 IST 2022
+base.2=F\:\\Projects\\Augmented Faces\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.2=classes.dex
+base.1=F\:\\Projects\\Augmented Faces\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.1=classes.dex
+base.0=F\:\\Projects\\Augmented Faces\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

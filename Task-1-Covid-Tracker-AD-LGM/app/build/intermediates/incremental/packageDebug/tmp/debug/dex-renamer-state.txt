@@ -1,0 +1,4 @@
+#Mon Jul 18 15:30:24 IST 2022
+base.0=F\:\\Projects\\CovidTracker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

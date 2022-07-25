@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ar.sceneform:core:1.14.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/527384418e5233e403e5054e823f7f0e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/157012af9cda0b48fe3b959715d02adf/transformed/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf8cd7dba4a48172c8a3f61e88f56acb/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf8cd7dba4a48172c8a3f61e88f56acb/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf8cd7dba4a48172c8a3f61e88f56acb/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

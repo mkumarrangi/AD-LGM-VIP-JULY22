@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\206f55ec02a577b788308693821e3c23\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\6c715e5721145f86786a034b9090e664\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\b13074c6db1314a5ead13ba342c212f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\63570206f67bfcac3bca22f9455a3634\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\4d6406bfb9aa72b127d4cc1be87d72fe\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\5c7a5893bfec53bc7f8c0dcc4bc2acf1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d3c76c80445bc38ea9fcf9ae597e55ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\bd2cc04b2b114399f3cfcb66682c0f70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\a84eaa0e118de1b29bc49a2e79347290\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\44eac7b0e3b71c72a45c1611ef31e56a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\fec22e79e35c96b0a8a9425dc79c7242\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\f1ec72fa8d3bd774534f6c1e147a641f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e642baa846458e49e50df0a8c9fcce0a\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\3ce4a8f360d6f1659d5b8e6f1b8e8921\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\043d966357106b778bb7f5a97af73cb8\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\5f4a533b220d5d10f48586a02ec08a57\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\931aa8249f0d07276c1482a7f035bf10\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d126b1eba0634ec1eab250f886d7b377\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\b37e9b2dd68375ae8d8684572f29e92f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d9aa22c4466f5ca55a6cb77074ee7ec6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\ab61ff111cc04c2bdb320d8e70532028\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\7dcb3fff9f295b2626a8d9ede832e04d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\bf8cd7dba4a48172c8a3f61e88f56acb\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\fef58580f4d4b5d04a0dbaf696c291f4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\482479287f5ace6510ba43b493b2b2a7\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\54c29ecf58294d1895401d4e0aa83823\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:17:1-46:12
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:11:9-50
+application
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:14:5-67:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\6c715e5721145f86786a034b9090e664\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\6c715e5721145f86786a034b9090e664\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e642baa846458e49e50df0a8c9fcce0a\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e642baa846458e49e50df0a8c9fcce0a\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\043d966357106b778bb7f5a97af73cb8\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\043d966357106b778bb7f5a97af73cb8\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:30:5-44:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e642baa846458e49e50df0a8c9fcce0a\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:17:9-41
+	tools:ignore
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:22:9-48
+	android:roundIcon
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:18:9-47
+	android:icon
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:16:9-42
+	android:allowBackup
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:15:9-36
+	android:theme
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:20:9-65
+	android:usesCleartextTraffic
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:21:9-45
+meta-data#com.google.ar.core
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:value
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:24:13-46
+meta-data#preloaded_fonts
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:26:9-28:57
+	android:resource
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:28:13-54
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:27:13-43
+activity#no.realitylab.arface.MainActivity
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:screenOrientation
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:34:13-47
+	android:exported
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:33:13-37
+	android:configChanges
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:32:13-59
+	android:theme
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:31:13-41
+activity#no.realitylab.arface.SplashScreen
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:exported
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:39:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:44:27-74
+activity#no.realitylab.arface.MakeupActivity
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:47:9-51:66
+	android:screenOrientation
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:50:13-47
+	android:configChanges
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:49:13-59
+	android:theme
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:51:13-63
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:48:13-43
+activity#no.realitylab.arface.GlassesActivity
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:52:9-56:66
+	android:screenOrientation
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:55:13-47
+	android:configChanges
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:54:13-59
+	android:theme
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:56:13-63
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:53:13-44
+activity#no.realitylab.arface.FaceRegionsActivity
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:57:9-61:66
+	android:screenOrientation
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:60:13-47
+	android:configChanges
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:59:13-59
+	android:theme
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:61:13-63
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:58:13-48
+activity#no.realitylab.arface.FaceLandmarksActivity
+ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:62:9-66:66
+	android:screenOrientation
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:65:13-47
+	android:configChanges
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:64:13-59
+	android:theme
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:66:13-63
+	android:name
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml:63:13-50
+uses-sdk
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\206f55ec02a577b788308693821e3c23\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\206f55ec02a577b788308693821e3c23\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\6c715e5721145f86786a034b9090e664\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\6c715e5721145f86786a034b9090e664\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\b13074c6db1314a5ead13ba342c212f2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\b13074c6db1314a5ead13ba342c212f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\63570206f67bfcac3bca22f9455a3634\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\63570206f67bfcac3bca22f9455a3634\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\4d6406bfb9aa72b127d4cc1be87d72fe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\4d6406bfb9aa72b127d4cc1be87d72fe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\5c7a5893bfec53bc7f8c0dcc4bc2acf1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\5c7a5893bfec53bc7f8c0dcc4bc2acf1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d3c76c80445bc38ea9fcf9ae597e55ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d3c76c80445bc38ea9fcf9ae597e55ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\bd2cc04b2b114399f3cfcb66682c0f70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\bd2cc04b2b114399f3cfcb66682c0f70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\a84eaa0e118de1b29bc49a2e79347290\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\a84eaa0e118de1b29bc49a2e79347290\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\44eac7b0e3b71c72a45c1611ef31e56a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\44eac7b0e3b71c72a45c1611ef31e56a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\fec22e79e35c96b0a8a9425dc79c7242\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\fec22e79e35c96b0a8a9425dc79c7242\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\f1ec72fa8d3bd774534f6c1e147a641f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\f1ec72fa8d3bd774534f6c1e147a641f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e642baa846458e49e50df0a8c9fcce0a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e642baa846458e49e50df0a8c9fcce0a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\3ce4a8f360d6f1659d5b8e6f1b8e8921\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\3ce4a8f360d6f1659d5b8e6f1b8e8921\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\043d966357106b778bb7f5a97af73cb8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\043d966357106b778bb7f5a97af73cb8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\5f4a533b220d5d10f48586a02ec08a57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\5f4a533b220d5d10f48586a02ec08a57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\931aa8249f0d07276c1482a7f035bf10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\931aa8249f0d07276c1482a7f035bf10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d126b1eba0634ec1eab250f886d7b377\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d126b1eba0634ec1eab250f886d7b377\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\b37e9b2dd68375ae8d8684572f29e92f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\b37e9b2dd68375ae8d8684572f29e92f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d9aa22c4466f5ca55a6cb77074ee7ec6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\d9aa22c4466f5ca55a6cb77074ee7ec6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\ab61ff111cc04c2bdb320d8e70532028\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\ab61ff111cc04c2bdb320d8e70532028\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\7dcb3fff9f295b2626a8d9ede832e04d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\7dcb3fff9f295b2626a8d9ede832e04d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\bf8cd7dba4a48172c8a3f61e88f56acb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\bf8cd7dba4a48172c8a3f61e88f56acb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\fef58580f4d4b5d04a0dbaf696c291f4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\fef58580f4d4b5d04a0dbaf696c291f4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\482479287f5ace6510ba43b493b2b2a7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\482479287f5ace6510ba43b493b2b2a7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\54c29ecf58294d1895401d4e0aa83823\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\54c29ecf58294d1895401d4e0aa83823\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:26:5-28:41
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+		ADDED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects\Augmented Faces\app\src\main\AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.14.0] C:\Users\mkuma\.gradle\caches\transforms-2\files-2.1\e36565033cb4d819bf9d2ed3ec0a9871\AndroidManifest.xml:38:13-62
